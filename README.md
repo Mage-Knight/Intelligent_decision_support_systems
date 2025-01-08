@@ -6,13 +6,13 @@ This repository contains laboratory works written in Python and completed during
 
 ## 🔬 Laboratory work 1
 
-Data used:
-- Artificial data generated using high-order polynomial.
-- Netflix Stock Price data.
+- Data used:
+    - Artificial data generated using high-order polynomial.
+    - Netflix Stock Price data.
 
-Tasks completed:
-- Trained polynomial model (for Netflix data polynomial with multiple inputs) using backpropagation to predict the target value and visualize results.
-- Performed Grid-search to find best hyperparameters for such training.
+- Tasks completed:
+    - Trained polynomial model (for Netflix data polynomial with multiple inputs) using backpropagation to predict the target value and visualize results.
+    - Performed Grid-search to find best hyperparameters for such training.
 
 ---
 
@@ -40,16 +40,16 @@ Tasks completed:
 
 ## 🔬 Laboratory work 4 (a continuation of Laboratory work 3)
 
-- Tasks completed:
-    - Implemented next PyTorch modules:
-        - TimeDistributed.
-        - ConvLSTMCell.
-        - LSTMConv2D.
-        - RNNEncoderDecoder with different encoder options.
-    - Using different features from gooogle-stock-price next models were trained and compared for predicting target variable using different amount previous days data:
-        - Univariate/Multivariate single/multilayered Conv1D-LSTM/GRU Encoder-Decoder.
-        - Univariate/Multivariate single/multilayered ConvLSTM2D-LSTM Encoder-Decoder.
-    - Compared results with those obtained in Laboratory work 3.
+Tasks completed:
+- Implemented next PyTorch modules:
+    - TimeDistributed.
+    - ConvLSTMCell.
+    - LSTMConv2D.
+    - RNNEncoderDecoder with different encoder options.
+- Using different features from gooogle-stock-price next models were trained and compared for predicting target variable using different amount previous days data:
+    - Univariate/Multivariate single/multilayered Conv1D-LSTM/GRU Encoder-Decoder.
+    - Univariate/Multivariate single/multilayered ConvLSTM2D-LSTM Encoder-Decoder.
+- Compared results with those obtained in Laboratory work 3.
 
 ---
 
